@@ -1,2 +1,10 @@
+title: Lerntagebuch für den Kurs 'Bibliotheks- und Archivinformatik FS23'
+author: Serra Topuz
+email: serra.topuz@student.fhgr.ch
+
+description: > # this means to ignore newlines
+
+github_username:  topuzsr # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
-markdown: kramdown
