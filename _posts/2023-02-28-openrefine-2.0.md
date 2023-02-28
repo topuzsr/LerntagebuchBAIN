@@ -103,6 +103,24 @@ Historie:
 (Pause = 20min)
 
 ## Übung LibraryCarpentry Lesson
+URL aufrufen
+
+Clipboard: Wenn ich einen Teilausschnitt aus einer Excel-Tabelle auswähle und auschneide, dann kann ich das auch in die Zwischenablage und dies funktioniert auch in Clipboard (Teilauszüge)
+
+Database und Google Data: Datenbanken und Google Sheets (privat und öffentlich) aufrufbar
+
+Eigentlich geht es hier mehr die Oberfläche von OpenRefine kennenzulernen und die Funktionen = Startbildschirm
+
+Zurück zum Skript:
+Übungen werden jetzt teils gemacht, er empfiehlt die weiteren in der privaten Zeit zu üben, aber ist nicht obligatorisch laut Dozent
+
+Zu einem späteren Zeitpunkt wird OpenRefine aufgegriffe und MARCXML zu üben
+
+Jetzt:
+- Materialien aus der Library Carpentry Lesson
+- (KJetzt mitmachen und nachher schreiben)
+
+
 
 # Lerneinheit 2.0: OpenRefine
 
