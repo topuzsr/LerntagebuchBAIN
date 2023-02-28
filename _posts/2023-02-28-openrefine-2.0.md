@@ -49,8 +49,60 @@ Wichtig ist es in gewissen Momenten diese Beiträge zwischenzeitlich zu speicher
 
 # Lerneinheit (Start OpenRefine)
 
+## Einführung (kurze) in OpenRefine
+Idee von OpenRefine: Rohdaten die zu einem Diamanten geschliffen werden
+Claim: Powerful free....
+Mächtig frei und OpenResource mit "schmutzigen" Daten = gut geeignet um Daten zu bereinigen und von einem Format in ein anderes Format zu konfigurieren
 
+Reconicliation = Versöhnung; ein Datensatz mit einem anderen Datensatz verbinden = matchen (Gemeinsamkeiten über eine ID feststellen) und Daten zusammenführen (Verknüpfungen herstellne)
 
+Hauptfunktion von OpenRefine: Facettieren von Daten
+Von einer klassischen Tabellenfunktion wie Excel plus Suchmaschine (Webseite wie Amazon) wie man mit Filter sich durch Daten hindurcharbeiten kann
+
+Clustering = Algorithmen anwenden wie z.B. Key Collission, z.B. unterschiedliche Schreibweisen von Namen herausfinden
+
+Infinite undo/redo = Protokollierung und Einstieg in die Automatisierung; mit Daten die Historie erarbeitet kann man diese auch auf einen anderen Datensatz zu übertragen (wie zum Beispiel wenn man die neue Version einer Datenlieferung bekommt und vom Aufbau alles gleich bleibt, kann man das anwenden)
+
+Privacy = Daten die man mit OpenRefine bearbeitet bleiben privat auf der lokalen Obefläche (kann man lokal installieren); JavaSoftware, wird bedent über einen Webbrowser, aber man hat eigentlich keine Internetverbindung und man sendet keine Daten
+
+Das wären die Hauptfunktionen
+
+## Praxisteil und Übungen in OpenRefine
+Um diese auszuprobieren: Link aufrufen GitHub https://github.com/felixlohmeier/bain-lc-openrefine
+Aufruren vom Container; Create Codespace on Main
+
+Persönliche Arbeitsumgebung; Noch nicht eingerichtet (selber machen) OpenRefine starten (noch nicht im Skript und im ReadMe: kommt später vom Dozent)
+Start von OpenRefine (Befehl): openrefine-3.6.2/refine
+
+Was auch noch nicht automatisch funktioniert ist die Porteingabe (Dozent)
+
+Neben Terminal hat es Ports (kenn mich nicht so sehr mit Ports aus, war mal Thema in früheren Vorlesungen; lokaler Rechner http://127.0.0.1:3333/)
+für OpenRefine immer 3333 = das in Port eingebene + Return + Weltkugel anklicken und Fenster geöffnet (sieht aus wie eine Webseite ist aber nur für mich zugreifbar)
+
+## Wieder ins Skript: Erzählt mehr über OpenRefine
+Claim: Daten von anderen bekommt, statistisch überblicken kann (mit OpenRefine mit Filter analysieren)
+Konvertieren: ein Format in ein anderes Format
+Lokale Installation - Bedienung über Webbrowser
+
+Nutzerbefragung OpenRefine:
+Wichtig für Dozent bei einer OpenSource-Software - hängt sehr an Institutionen und Personen ab, man kann nicht durch Verkaufsprozesse erkennen wie gut diese laufen. Nicht einfach zu beurteilen und im Kurs haben wir das Ziel solche Softwares zu evaluieren.
+Wenn man eine OpenSource-Software als Institution , lohnen 
+
+OpenRefine = Breite Communities
+- Bibliotheken haben den grössten Ausschlag
+- Breite diverse Community, breite Community = höhere Stabilität und Input aus anderen Fachbereichen
+-  Unterschiedliche Skills aus diversen Bereichen
+
+Unterstützte Formate von OpenRefi
+
+Einsatzmöglichkeiten
+- In der Praxis für die wertvollen Daten (eher subjektiv) verwendet 
+
+Historie:
+
+(Pause)
+
+## Übung LibraryCarpentry Lesson
 
 # Lerneinheit 2.0: OpenRefine
 
