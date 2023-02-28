@@ -100,7 +100,7 @@ Einsatzmöglichkeiten
 
 Historie:
 
-(Pause)
+(Pause = 20min)
 
 ## Übung LibraryCarpentry Lesson
 
