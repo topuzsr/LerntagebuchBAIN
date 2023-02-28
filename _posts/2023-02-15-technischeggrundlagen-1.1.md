@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 1: Technische Grundlagen?"
+title: "Lerneinheit 1: Technische Grundlagen"
 date: 2023-02-15
 ---
 
