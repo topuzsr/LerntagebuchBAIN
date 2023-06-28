@@ -1,4 +1,4 @@
 ---
-title: "Lerneinheit 1.1: Technische Grundlagen - Nachmittag"
+title: "Lerneinheit 2: Technische Grundlagen - Nachmittag"
 date: 2023-02-15
 ---
