@@ -53,4 +53,9 @@ Möglichkeit: Swisscovery
 # Auftrag bis 4.4 Eintrag 
 Lerntagebücher inkl. diese Übung
 
+# Mood of the day
+
+![GIF](https://i.imgflip.com/150wij.jpg)
+
+
 (3000 - 4000 Zeichen)
