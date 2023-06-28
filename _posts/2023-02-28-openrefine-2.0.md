@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 2: OpenRefine"
+title: "Lerneinheit 2: Metadaten modellieren und Schnittstellen nutzen 1/2 (OpenRefine)"
 date: 2023-02-28
 ---
 
