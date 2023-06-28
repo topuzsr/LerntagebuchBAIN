@@ -120,6 +120,13 @@ Jetzt:
 - Materialien aus der Library Carpentry Lesson
 - (KJetzt mitmachen und nachher schreiben)
 
+- 
+
+# Mood of the day
+
+![GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsP7itqjQO9_MAmQnxQ0blKvEXo-VerDzqg&usqp=CAU)
+
+
 
 
 # Lerneinheit 2.0: OpenRefine
