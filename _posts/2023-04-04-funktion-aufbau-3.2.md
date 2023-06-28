@@ -1,6 +1,5 @@
-
 ---
-title: "Lerneinheit 3.2: Funktion und Aufbau von Bibliothekssystemen"
+title: "Lerneinheit 5: Funktion und Aufbau von Bibliothekssystemen 2/2"
 date: 2023-04-04
 ---
 
