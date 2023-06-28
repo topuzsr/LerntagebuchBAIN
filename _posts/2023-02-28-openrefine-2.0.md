@@ -124,7 +124,8 @@ Jetzt:
 
 # Mood of the day
 
-![GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsP7itqjQO9_MAmQnxQ0blKvEXo-VerDzqg&usqp=CAU)
+![GIF](https://rosalindparr.files.wordpress.com/2015/02/open-refine.gif)
+
 
 
 
