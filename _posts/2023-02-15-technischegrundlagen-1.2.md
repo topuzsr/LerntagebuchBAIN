@@ -1,9 +1,4 @@
 ---
-title: "Lerneinheit 1: Technische Grundlagen"
+title: "Lerneinheit 1.1: Technische Grundlagen - Nachmittag"
 date: 2023-02-15
 ---
-# Lerneinheit 1.2: Technische Grundlagen
-
-(3000 - 4000 Zeichen)
-
-
