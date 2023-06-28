@@ -25,7 +25,7 @@ Abschließend bin ich gespannt darauf, was der Kurs für mich bereithält, und f
 
 # Mood of the day
 
-Da ich mich selber nicht als sehr talentierte Autorin sehe, versuche ich jeden Beitrag mit ein bisschen Humor zu beenden. Mit "Mood of the day" soll gegen Ende des Lerntagebucheintrags aufzeigen wie ich mich am Ende jeder Vorlesung (Beitrags) fühlte. Und damit beginnen wir schon schon mit dem ersten "Mood":
+Da ich mich selber nicht als sehr talentierte Autorin sehe, versuche ich jeden Beitrag mit ein bisschen Humor zu beenden. Mit "Mood of the day" soll gegen Ende des Lerntagebucheintrags aufzeigen wie ich mich nach jeder Vorlesung (Beitrags) fühle. Und damit beginnen wir schon schon mit dem ersten "Mood":
 
 ![Back to School Meme](https://www.splashlearn.com/blog/wp-content/uploads/2022/04/Back-to-school-memes-1024x1024.jpg)
 
