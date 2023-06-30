@@ -34,7 +34,7 @@ Ziel war es, folgende Aufgaben in Koha zu lösen:
 
 Diese Übungen hat mir geholfen, die grundlegenden Funktionen von Koha im Umgang mit Bucherfassung, Benutzerverwaltung und Leihvorgängen zu verstehen. Koha zu nutzen war recht effizient und trotz meiner nicht so grossen Erfahrung mit dem praktischen Umgang von MARC21 waren die Übungen recht einfach zu lösen.
 
-![Koha](_posts/images/KOHA.png) 
+![Koha](images/KOHA.png) 
 
 # Mood of the day
 
