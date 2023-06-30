@@ -38,7 +38,7 @@ Zuerst gab es eine kleine Einführung darin was Repositorys sind und zwar sind e
 
 ## DSpace
 
-
+Um uns näher mit dem Thema zu beschäftigen, haben wir eine Übung mit der Open-Source-Software DSpace gemacht. Denn jene dient als Repository als als zentrale Plattform für die Verwaltung und Bereitstellung von Daten. Über eine öffentlich zugängliche Demo konnten wir deren Funktionen austesten, natürlich mussten wir zuerst eine Community erstellen um überhaupt eine Collection zu erstellen. Und meiner Meinung nach haben sich viele mit jener Übung schwer getan oder eher mit der dem Login. Den es gab so viele Optionen, die man nutzen konnte um sich anzumelden und erst mithilfe des Dozenten konnte ich die richtige Option für das Login erkennen. Aber danach gab es Probleme mit den Berechtigungen und überhaupt konnte ich recht schlecht diese Software bedienen. An sich war das Ziel der Übung ein solches Repositorys praktisch anzuwenden in dem wir als Klasse z.B. Dokumente einzeln hochladen und diese gegenseitig zu begutachten.
 
 # Mood of the day
 
@@ -47,4 +47,4 @@ Wir sind jetzt mehr über die Halbzeit des gesamten Semesters und ich sehne mich
 ![Fast da](https://facultyloungers.com/cdn/shop/articles/stay-strong-summer-coming-teacher-meme.jpg?v=1526560424)
 
 
-(Zeichen: 2054)
+(Zeichen: 3872)
