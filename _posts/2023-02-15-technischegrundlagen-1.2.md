@@ -48,3 +48,5 @@ Mit diesem Prozess können wir aktiv an unserem Lerntagebuch arbeiten, Änderung
 Die ersten zwei Lerneinheiten von BAIN sind überstanden und ich empfinde gegen Ende des Tages die vage Hoffnung, dass alles gut kommt.
 
 ![Picture](https://sayingimages.com/wp-content/uploads/2021/01/first-day-of-school-i-survived-meme.jpg)
+
+(Zeichen: 3640)
