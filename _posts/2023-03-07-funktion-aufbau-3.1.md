@@ -21,12 +21,24 @@ MARC21 ist ein detaillierter Metadatenstandard für Bibliotheken, während Dubli
 
 # KOHA
 
-[Koha](https://koha-community.org)
+Heute haben wir die Open-Source-Bibliothekssoftware [Koha](https://koha-community.org) kennengelernt. Obwohl ich bis jetzt nur mit "Aleph" gearbeitet habe, fand ich es toll, eine kostenlose Alternative zu benutzen. Es ist schwierig als Quereinsteigerin praktische Erfahrungen zu sammeln und deswegen ist diese Übung besonders interessant gewesen. Koha hat zwar ein etwas simples Erscheinungsbild, aber ich finde es dennoch benutzerfreundlich und übersichtlich. Wir haben erfahren, dass es wichtig ist zu beachten, dass es Möglichkeiten gibt, mit Koha Geld zu verdienen, z.B. durch Serviceleistungen oder Schulungen. Insgesamt war die gesamte Einführung und die Übungseinheit in Koha lehrreich und ich konnte mein veraltetes Wissen wieder auffrischen.
 
+Um Koha näher kennenzulernen haben wir Aufgaben gelöst um verschiedene Funktionen kennenzulernen:
+
+Ziel war es, folgende Aufgaben in Koha zu lösen:
+
+- Buch erfassen
+- Benutzer anlegen
+- Buch an Theke ausleihen
+- Buch an Theke zurücknehmen
+
+Diese Übungen hat mir geholfen, die grundlegenden Funktionen von Koha im Umgang mit Bucherfassung, Benutzerverwaltung und Leihvorgängen zu verstehen. Koha zu nutzen war recht effizient und trotz meiner nicht so grossen Erfahrung mit dem praktischen Umgang von MARC21 waren die Übungen recht einfach zu lösen.
 
 # Mood of the day
+
+Es war eine tolle Lerneinheit und die praktische Seite hat mir sehr viel gebracht:
 
 ![GIF](https://i.imgflip.com/150wij.jpg)
 
 
-(3000 - 4000 Zeichen)
+(Zeichen: )
