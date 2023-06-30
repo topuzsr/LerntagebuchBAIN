@@ -34,6 +34,9 @@ Ich bevorzuge persönlich die Bibliothekssysteme, da ich erstens vertrauter bin 
 
 ## Einführung
 
+Zuerst gab es eine kleine Einführung darin was Repositorys sind und zwar sind es Speicherorte für die Verwaltung von Quellcodes, Dateien und Projekten, die man in der Softwareentwicklung findet. Sie sind sozusagen der zentrale Ort an dem man Veränderungen nachverfolgen kann sowie die Zusammenarbeit mit anderen Entwicklern. So ein Repository habe ich eigentlich auf meiner GitHub Page und auch mit jener kann ich meine Änderungen nachverfolgen und überprüfen ob ich nachträglich nicht etwas nicht falsch gemacht habe. 
+
+## DSpace
 
 
 
