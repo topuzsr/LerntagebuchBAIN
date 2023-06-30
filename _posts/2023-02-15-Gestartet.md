@@ -9,8 +9,7 @@ Als Quereinsteigerin in die Bibliotheks- und Archivwelt basieren meine bisherige
 
 # Bisherige Erfahrungen in der Bibliotheks- und Archivinformatik
 
-Meine bisherigen Erfahrungen in der Bibliotheks- und Archivinformatik beschränken sich auf ein einjähriges Praktikum in der [Basisbibliothek Unitobler](https://www.ub.unibe.ch/teilbibliotheken/philosophisch_historische_faecher/basisbibliothek_unitobler_bto/index_ger.html)
-, wo ich das System Aleph verwendet habe. Während dieser Zeit konnte ich erste praktische Einblicke in bibliothekarische Abläufe gewinnen und Aufgaben wie Katalogisierung, Bestandsverwaltung und Benutzerverwaltung durchführen. Es war eine wertvolle Erfahrung, aber ich bin mir bewusst, dass dies nur der Anfang war und es noch viel mehr zu entdecken gibt.
+Meine bisherigen Erfahrungen in der Bibliotheks- und Archivinformatik beschränken sich auf ein einjähriges Praktikum in der [Basisbibliothek Unitobler](https://www.ub.unibe.ch/teilbibliotheken/philosophisch_historische_faecher/basisbibliothek_unitobler_bto/index_ger.html), wo ich das System Aleph verwendet habe. Während dieser Zeit konnte ich erste praktische Einblicke in bibliothekarische Abläufe gewinnen und Aufgaben wie Katalogisierung, Bestandsverwaltung und Benutzerverwaltung durchführen. Es war eine wertvolle Erfahrung, aber ich bin mir bewusst, dass dies nur der Anfang war und es noch viel mehr zu entdecken gibt.
 
 Im Rahmen meines Studiums der Information Science habe ich viele theoretische Kenntnisse erworben, insbesondere in Bereichen wie Datenbanksysteme und semantische Systeme. Allerdings fehlt mir die praktische Erfahrung, da ich bisher hauptsächlich die theoretischen Konzepte erlernt habe. Manchmal fühle ich mich im Vergleich zu meinen Mitstudenten etwas im Rückstand, da sie bereits praktische Erfahrungen gesammelt haben, während ich mich auf die Theorie konzentriert habe.
 
