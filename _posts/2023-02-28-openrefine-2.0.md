@@ -29,6 +29,7 @@ Die Übungen haben mir gezeigt, wie wichtig die Standardisierung von Sprache und
 
 # Mood of the day
 Es war mal wieder was ganz Neues!
+
 ![GIF](https://rosalindparr.files.wordpress.com/2015/02/open-refine.gif)
 
 (Zeichen: 3656)
