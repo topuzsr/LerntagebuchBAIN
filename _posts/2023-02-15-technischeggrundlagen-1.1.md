@@ -6,8 +6,6 @@ date: 2023-02-15
 
 Heute haben wir organisatorische Dinge für den Kurs erledigt. Der Kursplan wurde besprochen und es wurden interessante Themen wie Markdown, Unix Shell und Git erwähnt. Die Vorstellungsrunde ermöglichte es uns, unsere Erfahrungen und Erwartungen auszutauschen. Ich hoffe, am Ende des Kurses viel zu lernen und das Wissen praktisch anwenden zu können.
 
-Die Agenda des Kurses umfasst Themen wie Markdown, Arbeitsumgebungseinrichtung, Unix Shell und Git. Ich habe bereits Erfahrung mit Markdown aus früheren Marketingprojekten und freue mich darauf, mein Wissen zu vertiefen. Die anderen Themen klingen ebenfalls spannend und ich bin gespannt auf das, was ich lernen werde.
-
 # Lerninhalt
 
 Anhand des vorliegenden Schaubilds wurde uns gezeigt, welche Themen wir im Kurs behandeln werden. Wir haben über verschiedene Tools wie Koha, ArchivesSpace und DSpace gesprochen, die wir zum Hochladen von Online-Dokumenten verwenden können. Auch der OAI-Standard und VUfind Harvest wurden besprochen, sowie die Bedeutung von Metadatenstandards wie MARC21 und Dublin Core.
@@ -42,3 +40,5 @@ Vor der nächsten Lerneinheit am Nachmittag haben wir für unseren Leistungsnach
 Es ist endlich Halbzeit und die erste Lerneinheit ist geschafft. Und da es sich hierbei um die erste Lektion eines neuen Moduls handelt, passt das folgende Bild genau:
 
 ![Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsP7itqjQO9_MAmQnxQ0blKvEXo-VerDzqg&usqp=CAU)
+
+(Zeichen: 3883)
