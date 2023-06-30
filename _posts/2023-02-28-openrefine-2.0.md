@@ -13,7 +13,7 @@ Dozent informierte uns über die Timeout-Einstellung in Codespaces und empfahl, 
 ![Codespace 2](https://pad.gwdg.de/uploads/7426fdc7-f278-4630-83df-cba152585a73.png)
 
 
-# Lehreinheit zu OpenRefine
+# OpenRefine
 
 ## Einführung
 Heute stand OpenRefine im Mittelpunkt unseres Unterrichts. Diese Open-Source-Software ermöglicht die Bereinigung und Konvertierung von Daten. Als Anfängerin in diesem Bereich fand ich die vielen Funktionen von OpenRefine zu Beginn etwas überwältigend.  OpenRefine bietet eine Vielzahl von Möglichkeiten, um Rohdaten zu verbessern und von einem Format in ein anderes zu konvertieren. Es kombiniert Funktionen einer Tabellenkalkulation mit Suchmaschinenfunktionen, was es uns ermöglicht, effizient mit den Daten zu arbeiten.
@@ -22,7 +22,7 @@ Im Unterricht haben wir gelernt, wie OpenRefine das Facettieren von Daten ermög
 
 Als Studentin ohne Vorkenntnisse war es anfangs eine Herausforderung dem allem nachzukommen, aber der folgende Praxisteil hat geholfen mir den Inhalt verständlicher zu machen.
 
-## Praxisteil und Übungen in OpenRefine
+## Praxisteil (Zusammenfassung und Meinung)
 Zunächst haben wir OpenRefine in Codespace eingerichtet und Daten importiert, insbesondere in Form von tabellarischen Daten mit festen Spaltenbreiten. Durch den Import einer CSV-Datei mit 1001 Datensätzen zu verschiedenen Zeitschriften konnten wir die grundlegenden Funktionen von OpenRefine kennenlernen. Wir haben gelernt, wie man Daten analysiert, Facetten anwendet, um Daten zu durchsuchen, und Bereinigungsaufgaben wie das Zusammenführen von Zellen oder das Aufteilen von Werten in Tabellenzellen durchführt. OpenRefine bietet auch eine Rückgängigmachungsfunktion für Änderungen und ermöglicht die Versionsverfolgung. Darüber hinaus haben wir uns kurz mit dem Datenabgleich beschäftigt, bei dem externe Datenquellen genutzt werden, um Daten anzureichern und mit unserer Tabelle zu kombinieren.
 
 Die Übungen haben mir gezeigt, wie wichtig die Standardisierung von Sprache und Namen ist, um konsistente Daten zu erhalten. Das Design ist nicht gerade ansprechend von OpenRefine ist die Oberfläche meiner Meinung nach immer noch benutzerfreundlich. Auch wird die Facettierung von Daten(beständen) recht einfach gemacht.
