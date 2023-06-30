@@ -23,6 +23,11 @@ Aber in der heutigen Lektion haben wir die beiden Softwares separat begutachtet 
 
 Gegen Ende gab es wieder mal einen Überblick des Marktes wenn wir schon Discovery-Systeme im Unterricht behandeln.
 
+Es gibt kommerzielle wie auch Open-Source-Alternativen und wie wir schon gelernt haben, ist einer der Marktführer generell ExLibris aber hier nicht mit Alma sondern mit ihrem System Primo oder als Alternative OCLC mit WorldCat Discovery. Beide Systemen weisen eine Vielzahl an Funktionalitäten auf und beider Suchindizes können auch Metadaten von elektronischen Medien (Beständen) enthalten. 
+
+International gesehen ist VuFind recht attraktiv, aber weisen keinen eigenen Artikelindex auf. Und wenn wir die Schweiz anschauen, kommt uns ein recht bekanntes System entgegen und zwar dem SLSP (Swiss Library Service Platform) und zwar wieder von ExLibris.
+
+Ich persönlich kann nicht entscheiden welche Softwares am besten läuft, aber ich persönlich sehe, dass ExLibris mit seinen Angeboten recht gut im Markt positioniert ist und es was ausmacht sich näher mit jenen auseinanderzusetzen (zu erlernen).
 
 # Mood of the day
 
@@ -30,5 +35,4 @@ Im Vergleich zu der letzten Lerneinheit war diese Vorlesung das reine Paradies (
 
 ![Paradies](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVSFm_1-kHHFTSmDMt6j1RCOwTsN_UP-BcE8UTvvK&s)
 
-
-![Anstrengender Tag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-S5EKz-djV3_JiN2gtRPntAxApxobUjxBQBCafJaikw&s)
+(Zeichen: 3839)
