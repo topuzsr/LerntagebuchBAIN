@@ -3,7 +3,11 @@ title: "Lerneinheit 5: Funktion und Aufbau von Bibliothekssystemen 2/2"
 date: 2023-04-04
 ---
 
-# SRU-Server einrichten
+# Intro
+
+Bevor die Lerneinheit startete gab es die Information, dass ein Ersatztermin gefunden wurde für die "fehlende" Vorlesung: 05. Mai 2023.
+
+
 
 SRU = Search/retrieve via URL 
 
