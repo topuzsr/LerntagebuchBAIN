@@ -13,90 +13,23 @@ Dozent informierte uns über die Timeout-Einstellung in Codespaces und empfahl, 
 ![Codespace 2](https://pad.gwdg.de/uploads/7426fdc7-f278-4630-83df-cba152585a73.png)
 
 
-# Lerneinheit (Start OpenRefine)
+# Lehreinheit zu OpenRefine
 
-## Einführung (kurze) in OpenRefine
-Idee von OpenRefine: Rohdaten die zu einem Diamanten geschliffen werden
-Claim: Powerful free....
-Mächtig frei und OpenResource mit "schmutzigen" Daten = gut geeignet um Daten zu bereinigen und von einem Format in ein anderes Format zu konfigurieren
+## Einführung
+Heute stand OpenRefine im Mittelpunkt unseres Unterrichts. Diese Open-Source-Software ermöglicht die Bereinigung und Konvertierung von Daten. Als Anfängerin in diesem Bereich fand ich die vielen Funktionen von OpenRefine zu Beginn etwas überwältigend.  OpenRefine bietet eine Vielzahl von Möglichkeiten, um Rohdaten zu verbessern und von einem Format in ein anderes zu konvertieren. Es kombiniert Funktionen einer Tabellenkalkulation mit Suchmaschinenfunktionen, was es uns ermöglicht, effizient mit den Daten zu arbeiten.
 
-Reconicliation = Versöhnung; ein Datensatz mit einem anderen Datensatz verbinden = matchen (Gemeinsamkeiten über eine ID feststellen) und Daten zusammenführen (Verknüpfungen herstellne)
+Im Unterricht haben wir gelernt, wie OpenRefine das Facettieren von Daten ermöglicht. Ähnlich wie bei einer Tabellenkalkulation können wir die Daten gezielt durchsuchen und filtern. Darüber hinaus haben wir auch die Versöhnungsfunktion kennengelernt, mit der wir Datensätze miteinander verknüpfen können. Ein weiterer interessanter Aspekt ist die Clusterfunktion von OpenRefine. Mit Hilfe von Algorithmen können ähnliche Werte identifiziert werden, was zum Beispiel bei unterschiedlichen Schreibweisen von Namen sehr nützlich ist. Was ich interessant fand war die unbegrenzte Rückgängig/Wiederherstellen-Funktion (Infinite Undo/Redo) von OpenRefine. Dadurch können wir Änderungen Schritt für Schritt nachvollziehen und bei Bedarf rückgängig machen.
 
-Hauptfunktion von OpenRefine: Facettieren von Daten
-Von einer klassischen Tabellenfunktion wie Excel plus Suchmaschine (Webseite wie Amazon) wie man mit Filter sich durch Daten hindurcharbeiten kann
-
-Clustering = Algorithmen anwenden wie z.B. Key Collission, z.B. unterschiedliche Schreibweisen von Namen herausfinden
-
-Infinite undo/redo = Protokollierung und Einstieg in die Automatisierung; mit Daten die Historie erarbeitet kann man diese auch auf einen anderen Datensatz zu übertragen (wie zum Beispiel wenn man die neue Version einer Datenlieferung bekommt und vom Aufbau alles gleich bleibt, kann man das anwenden)
-
-Privacy = Daten die man mit OpenRefine bearbeitet bleiben privat auf der lokalen Obefläche (kann man lokal installieren); JavaSoftware, wird bedent über einen Webbrowser, aber man hat eigentlich keine Internetverbindung und man sendet keine Daten
-
-Das wären die Hauptfunktionen
+Als Studentin ohne Vorkenntnisse war es anfangs eine Herausforderung dem allem nachzukommen, aber der folgende Praxisteil hat geholfen mir den Inhalt verständlicher zu machen.
 
 ## Praxisteil und Übungen in OpenRefine
-Um diese auszuprobieren: Link aufrufen GitHub https://github.com/felixlohmeier/bain-lc-openrefine
-Aufruren vom Container; Create Codespace on Main
+Zunächst haben wir OpenRefine in Codespace eingerichtet und Daten importiert, insbesondere in Form von tabellarischen Daten mit festen Spaltenbreiten. Durch den Import einer CSV-Datei mit 1001 Datensätzen zu verschiedenen Zeitschriften konnten wir die grundlegenden Funktionen von OpenRefine kennenlernen. Wir haben gelernt, wie man Daten analysiert, Facetten anwendet, um Daten zu durchsuchen, und Bereinigungsaufgaben wie das Zusammenführen von Zellen oder das Aufteilen von Werten in Tabellenzellen durchführt. OpenRefine bietet auch eine Rückgängigmachungsfunktion für Änderungen und ermöglicht die Versionsverfolgung. Darüber hinaus haben wir uns kurz mit dem Datenabgleich beschäftigt, bei dem externe Datenquellen genutzt werden, um Daten anzureichern und mit unserer Tabelle zu kombinieren.
 
-Persönliche Arbeitsumgebung; Noch nicht eingerichtet (selber machen) OpenRefine starten (noch nicht im Skript und im ReadMe: kommt später vom Dozent)
-Start von OpenRefine (Befehl): openrefine-3.6.2/refine
-
-Was auch noch nicht automatisch funktioniert ist die Porteingabe (Dozent)
-
-Neben Terminal hat es Ports (kenn mich nicht so sehr mit Ports aus, war mal Thema in früheren Vorlesungen; lokaler Rechner http://127.0.0.1:3333/)
-für OpenRefine immer 3333 = das in Port eingebene + Return + Weltkugel anklicken und Fenster geöffnet (sieht aus wie eine Webseite ist aber nur für mich zugreifbar)
-
-## Wieder ins Skript: Erzählt mehr über OpenRefine
-Claim: Daten von anderen bekommt, statistisch überblicken kann (mit OpenRefine mit Filter analysieren)
-Konvertieren: ein Format in ein anderes Format
-Lokale Installation - Bedienung über Webbrowser
-
-Nutzerbefragung OpenRefine:
-Wichtig für Dozent bei einer OpenSource-Software - hängt sehr an Institutionen und Personen ab, man kann nicht durch Verkaufsprozesse erkennen wie gut diese laufen. Nicht einfach zu beurteilen und im Kurs haben wir das Ziel solche Softwares zu evaluieren.
-Wenn man eine OpenSource-Software als Institution , lohnen 
-
-OpenRefine = Breite Communities
-- Bibliotheken haben den grössten Ausschlag
-- Breite diverse Community, breite Community = höhere Stabilität und Input aus anderen Fachbereichen
--  Unterschiedliche Skills aus diversen Bereichen
-
-Unterstützte Formate von OpenRefi
-
-Einsatzmöglichkeiten
-- In der Praxis für die wertvollen Daten (eher subjektiv) verwendet 
-
-Historie:
-
-(Pause = 20min)
-
-## Übung LibraryCarpentry Lesson
-URL aufrufen
-
-Clipboard: Wenn ich einen Teilausschnitt aus einer Excel-Tabelle auswähle und auschneide, dann kann ich das auch in die Zwischenablage und dies funktioniert auch in Clipboard (Teilauszüge)
-
-Database und Google Data: Datenbanken und Google Sheets (privat und öffentlich) aufrufbar
-
-Eigentlich geht es hier mehr die Oberfläche von OpenRefine kennenzulernen und die Funktionen = Startbildschirm
-
-Zurück zum Skript:
-Übungen werden jetzt teils gemacht, er empfiehlt die weiteren in der privaten Zeit zu üben, aber ist nicht obligatorisch laut Dozent
-
-Zu einem späteren Zeitpunkt wird OpenRefine aufgegriffe und MARCXML zu üben
-
-Jetzt:
-- Materialien aus der Library Carpentry Lesson
-- (KJetzt mitmachen und nachher schreiben)
-
-- 
+Die Übungen haben mir gezeigt, wie wichtig die Standardisierung von Sprache und Namen ist, um konsistente Daten zu erhalten. Das Design ist nicht gerade ansprechend von OpenRefine ist die Oberfläche meiner Meinung nach immer noch benutzerfreundlich. Auch wird die Facettierung von Daten(beständen) recht einfach gemacht.
 
 # Mood of the day
 
 ![GIF](https://rosalindparr.files.wordpress.com/2015/02/open-refine.gif)
 
-
-
-
-
-# Lerneinheit 2.0: OpenRefine
-
-(3000 - 4000 Zeichen)
+(Zeichen: 3614)
 
