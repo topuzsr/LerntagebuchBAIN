@@ -28,7 +28,7 @@ Zunächst haben wir OpenRefine in Codespace eingerichtet und Daten importiert, i
 Die Übungen haben mir gezeigt, wie wichtig die Standardisierung von Sprache und Namen ist, um konsistente Daten zu erhalten. Das Design ist nicht gerade ansprechend von OpenRefine ist die Oberfläche meiner Meinung nach immer noch benutzerfreundlich. Auch wird die Facettierung von Daten(beständen) recht einfach gemacht.
 
 # Mood of the day
-
+Es war mal wieder was ganz Neues!
 ![GIF](https://rosalindparr.files.wordpress.com/2015/02/open-refine.gif)
 
 (Zeichen: 3614)
