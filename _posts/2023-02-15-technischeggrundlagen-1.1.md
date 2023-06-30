@@ -4,13 +4,9 @@ date: 2023-02-15
 ---
 # Intro
 
-Heute haben wir uns mit einigen organisatorischen Dingen für den Kurs beschäftigt. Wir haben uns bei GitHub angemeldet, was ziemlich einfach war. Dann haben wir uns HedgeDoc angeschaut, ein cooles Tool, mit dem man auf verschiedene Arten arbeiten kann. Man kann Dateien hochladen, alte Versionen anschauen und sogar alles als Markdown oder HTML herunterladen. Ziemlich praktisch, oder?
+Heute haben wir organisatorische Dinge für den Kurs erledigt. Der Kursplan wurde besprochen und es wurden interessante Themen wie Markdown, Unix Shell und Git erwähnt. Die Vorstellungsrunde ermöglichte es uns, unsere Erfahrungen und Erwartungen auszutauschen. Ich hoffe, am Ende des Kurses viel zu lernen und das Wissen praktisch anwenden zu können.
 
-Wir haben auch den Plan für den Kurs durchgesprochen. Es sieht so aus, als ob wir uns mit einigen interessanten Themen beschäftigen werden, wie Markdown, Unix Shell und Git. Ich freue mich schon darauf, mehr darüber zu lernen.
-
-In der Vorstellungsrunde haben wir alle ein bisschen über unsere Erfahrungen und Erwartungen gesprochen. Es war cool zu hören, was die anderen schon alles gemacht haben und was sie sich von dem Kurs erhoffen. Ich hoffe, dass ich am Ende des Kurses viel gelernt habe und das Wissen auch praktisch anwenden kann.
-
-Heute haben wir auch einen Blick auf die Agenda des Kurses geworfen. Es sieht so aus, als ob wir uns mit einigen coolen Themen wie Markdown, der Einrichtung unserer Arbeitsumgebung, Unix Shell und Git beschäftigen werden. Ich habe schon ein bisschen Erfahrung mit Markdown durch meine früheren Einsätze in Marketingabteilungen, also freue ich mich darauf, mein Wissen zu vertiefen. Die anderen Themen klingen auch spannend und ich bin gespannt, was ich lernen werde.
+Die Agenda des Kurses umfasst Themen wie Markdown, Arbeitsumgebungseinrichtung, Unix Shell und Git. Ich habe bereits Erfahrung mit Markdown aus früheren Marketingprojekten und freue mich darauf, mein Wissen zu vertiefen. Die anderen Themen klingen ebenfalls spannend und ich bin gespannt auf das, was ich lernen werde.
 
 # Lerninhalt
 
@@ -34,7 +30,15 @@ Während des Tutorials haben wir die grundlegenden Konzepte von Markdown gelernt
 
 Ich fand das Tutorial sehr hilfreich, um Markdown besser zu verstehen und zu nutzen. Es ermöglicht mir, Inhalte übersichtlich und ansprechend zu gestalten. Durch die Anwendung von Markdown kann ich mich auch besser auf das Lerntagebuch vorbereiten und meine Gedanken und Erkenntnisse strukturiert festhalten.
 
+# HedgeDoc
+
+Danach haben wir uns im Kurs in HedgeDoc erkundet, ein interessantes Tool zur gemeinsamen Dokumentenbearbeitung. Mich hat sofort die benutzerfreundliche Oberfläche und die klare Struktur angesprochen. HedgeDoc ermöglicht es uns im Kurs, Dateien hochzuladen, frühere Versionen zu überprüfen und Inhalte in Markdown- oder HTML-Formaten herunterzuladen. Besonders gefällt mir die einfache Teilnahmemöglichkeit, die es uns erlaubt, problemlos gemeinsam an Dokumenten zu arbeiten. Das Beste ist, dass wir für jede Lerneinheit ein gemeinsames Dokument erhalten mit allen Informationen und die Möglichkeit unsere Meinungen/Lösungen im Dokument beizutragen.
+
+# GitHub (Einrichtung der Arbeitsumgebung) & Codespace
+
+Vor der nächsten Lerneinheit am Nachmittag haben wir für unseren Leistungsnachweis (dem Lerntagebuch) und für die Unix Shell auf GitHub registriert. Über unsere GitHub-Seite und mithilfe von Codespace konnten wir schnell die Unix-Shell kennenlernen. Die Shell ist eine Befehlszeilenschnittstelle, mit der wir das Betriebssystem steuern können. Wir haben eine Übung namens "Dateisystem" durchgeführt und dabei Kapitel in der [Library Carpentry Lesson zur Unix Shell](https://librarycarpentry.org/lc-shell/) zur Unix Shell bearbeitet.
+
 # Mood of the day
-Es ist Halbzeit und die erste Lerneinheit ist geschafft. Und da es sich hierbei um die erste Lektion eines neuen Moduls handelt, passt das folgende Bild genau:
+Es ist endlich Halbzeit und die erste Lerneinheit ist geschafft. Und da es sich hierbei um die erste Lektion eines neuen Moduls handelt, passt das folgende Bild genau:
 
 ![Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsP7itqjQO9_MAmQnxQ0blKvEXo-VerDzqg&usqp=CAU)
