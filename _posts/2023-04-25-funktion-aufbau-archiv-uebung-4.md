@@ -27,8 +27,8 @@ Jetzt geht um den Marktüberblick der Archivsysteme, aber mehrheitlich ging es u
 
 # Mood of the day
 
-Endlich wieder mal mehr "Archiv" als "Bibliothek":
+Ich hätte die Übung nicht so spät am Abend erledigen sollen und trotz der wenigen (benötigten) Anzahl Zeichen hier, bin ich erschöpft:
 
-![Satisfied](https://cdn.guff.com/site_2/media/33000/32740/items/9b101838c24229948767924d.jpg)
+![Brain Explosion](https://media.tenor.com/QdAU5GjF5wsAAAAM/brain-explosion.gif)
 
 (Zeichen: 3638)
