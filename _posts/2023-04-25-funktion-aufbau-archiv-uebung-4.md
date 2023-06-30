@@ -5,7 +5,7 @@ date: 2023-04-25
 
 # Intro
 
-Hier ein kurzer Einschnitt des üblichen Programms. Statt dem üblichen Lerntagebucheintrag wird hier die die folgende Übung "AtoM / ArchivesSpace" aus der Lerneinheit 6 rekapituliert. Hierbei geht es darum einen Vergleich zwischen den Open-Source-Softwares ArchiveSpace und AtoM herzustellen.
+Hier ein kurzer Einschnitt des üblichen Programms. Statt einem Lerntagebucheintrag wird hier die die folgende Übung "AtoM / ArchivesSpace" aus der Lerneinheit 6 rekapituliert. Hierbei geht es darum einen Vergleich zwischen den Open-Source-Softwares ArchiveSpace und AtoM herzustellen.
 
 # Übung AtoM / ArchivesSpace
 
