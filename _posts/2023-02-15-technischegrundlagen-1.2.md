@@ -34,18 +34,17 @@ Es ist wichtig zu beachten, dass Git auch lokal verwendet werden kann, während 
 
 Am Ende der Lerneinheit haben wir ein Repository für unser Lerntagebuch in Git angelegt. Dabei haben wir folgende Schritte durchgeführt:
 
-1. Repository anlegen: Wir haben ein spezielles Repository für unser Lerntagebuch erstellt.
+1. Repository anlegen
 
-2. Issue erstellen: Wir haben ein Issue erstellt, um Änderungen oder Probleme zu dokumentieren.
+2. Issue erstellen: Um Änderungen oder Probleme zu dokumentieren.
 
-3. Fork erstellen: Durch das Erstellen eines Forks haben wir eine Kopie des Repositorys erstellt, um Änderungen vorzunehmen, ohne das Original-Repository zu beeinflussen.
+3. Fork erstellen: Eine Kopie des Repositorys erstellt, um Änderungen vorzunehmen, ohne das Original-Repository zu beeinflussen.
 
-4. Änderungen vornehmen und committen: Wir haben unsere gewünschten Änderungen am Lerntagebuch vorgenommen und sie in unserem Fork committet.
+4. Änderungen vornehmen und committen
 
-5. Pull Request erstellen: Abschließend haben wir einen Pull Request erstellt, um unsere Änderungen dem Original-Repository vorzuschlagen.
+5. Pull Request erstellen: Um Änderungen dem Original-Repository vorzuschlagen.
 
-Mit diesem Prozess können wir aktiv an unserem Lerntagebuch arbeiten, Änderungen vornehmen und mit anderen zusammenarbeiten, um das Repository zu verbessern.
-Du kannst mein Lerntagebuch unter folgendem Link anzeigen: [Serra Topuz: Lerntagebuch](https://topuzsr.github.io/lerntagebuchBAIN.github.io/)
+Mit diesem Prozess können wir aktiv an unserem Lerntagebuch arbeiten, Änderungen vornehmen und mit anderen zusammenarbeiten, um das Repository zu verbessern. Du kannst mein Lerntagebuch unter folgendem Link anzeigen: [Serra Topuz: Lerntagebuch](https://topuzsr.github.io/lerntagebuchBAIN.github.io/)
 
 # Mood of the day
 Die ersten zwei Lerneinheiten von BAIN sind überstanden und ich empfinde gegen Ende des Tages die vage Hoffnung, dass alles gut kommt.
