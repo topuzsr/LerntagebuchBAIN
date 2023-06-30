@@ -9,7 +9,8 @@ Heute haben wir ein bisschen später mit der Lerneinheit begonnen, da sich der D
 
 # Timeout in Codespaces
 Dozent informierte uns über die Timeout-Einstellung in Codespaces und empfahl, diese auf 240 Minuten zu erhöhen. Wir können dies in den Einstellungen unter "Codespaces" vornehmen. Zusätzlich wird empfohlen, den Codespace nach jeder Lerneinheit zu löschen, was über den "Delete"-Button in den Codespace-Einstellungen möglich ist.
-![Image Title](https://pad.gwdg.de/uploads/7426fdc7-f278-4630-83df-cba152585a73.png)
+![Codespace 1](https://pad.gwdg.de/uploads/93466426-b238-4abe-99aa-35eb70a6a02b.png)
+![Codespace 2](https://pad.gwdg.de/uploads/7426fdc7-f278-4630-83df-cba152585a73.png)
 
 
 # Lerneinheit (Start OpenRefine)
