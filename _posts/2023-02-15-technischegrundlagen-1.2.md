@@ -45,7 +45,6 @@ Am Ende der Lerneinheit haben wir ein Repository für unser Lerntagebuch in Git 
 5. Pull Request erstellen: Abschließend haben wir einen Pull Request erstellt, um unsere Änderungen dem Original-Repository vorzuschlagen.
 
 Mit diesem Prozess können wir aktiv an unserem Lerntagebuch arbeiten, Änderungen vornehmen und mit anderen zusammenarbeiten, um das Repository zu verbessern.
-
 Du kannst mein Lerntagebuch unter folgendem Link anzeigen: [Serra Topuz: Lerntagebuch](https://topuzsr.github.io/lerntagebuchBAIN.github.io/)
 
 # Mood of the day
