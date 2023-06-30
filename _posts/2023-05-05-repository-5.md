@@ -39,8 +39,9 @@ Ich bevorzuge persönlich die Bibliothekssysteme, da ich erstens vertrauter bin 
 
 # Mood of the day
 
-Ich hätte die Übung nicht so spät am Abend erledigen sollen und trotz der wenigen (benötigten) Anzahl Zeichen hier, bin ich erschöpft:
+Wir sind jetzt mehr über die Halbzeit des gesamten Semesters und ich sehne mich schon nach den Ferien:
 
-![Brain Explosion](https://media.tenor.com/QdAU5GjF5wsAAAAM/brain-explosion.gif)
+![Fast da](https://facultyloungers.com/cdn/shop/articles/stay-strong-summer-coming-teacher-meme.jpg?v=1526560424)
+
 
 (Zeichen: 2054)
