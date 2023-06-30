@@ -4,16 +4,19 @@ date: 2023-02-15
 ---
 
 # Beruflicher Hintergrund
+
 Als Quereinsteigerin in die Bibliotheks- und Archivwelt basieren meine bisherigen Kenntnisse in der Informatik hauptsächlich auf praktischen Erfahrungen während meiner früheren Praktika. Dort habe ich kleinere Anpassungen im Webseiten-Design vorgenommen und dabei grundlegende HTML- und CSS-Kenntnisse erworben. Diese Erfahrungen haben gezeigt, dass ich in der Lage bin, Änderungen an einer Website vorzunehmen, allerdings eher im kleineren Umfang.
 
 Ursprünglich komme ich aus dem kaufmännischen Bereich und habe im Laufe der Jahre mit verschiedenen Betriebssystemen und -anwendungen gearbeitet. In meiner vorherigen Tätigkeit lag der Schwerpunkt auf Systemen wie SAP, wodurch ich einen guten Einblick in die Anwendung von Softwarelösungen erhalten habe. Dennoch ist mir bewusst, dass meine Kenntnisse bisher eher auf den kaufmännischen Bereich ausgerichtet waren.
 
 # Bisherige Erfahrungen in der Bibliotheks- und Archivinformatik
+
 Meine bisherigen Erfahrungen in der Bibliotheks- und Archivinformatik beschränken sich auf ein einjähriges Praktikum in der Basisbibliothek Unitobler, wo ich das System "Aleph" verwendet habe. Während dieser Zeit konnte ich erste praktische Einblicke in bibliothekarische Abläufe gewinnen und Aufgaben wie Katalogisierung, Bestandsverwaltung und Benutzerverwaltung durchführen. Es war eine wertvolle Erfahrung, aber ich bin mir bewusst, dass dies nur der Anfang war und es noch viel mehr zu entdecken gibt.
 
 Im Rahmen meines Studiums der Information Science habe ich viele theoretische Kenntnisse erworben, insbesondere in Bereichen wie Datenbanksysteme und semantische Systeme. Allerdings fehlt mir die praktische Erfahrung, da ich bisher hauptsächlich die theoretischen Konzepte erlernt habe. Manchmal fühle ich mich im Vergleich zu meinen Mitstudenten etwas im Rückstand, da sie bereits praktische Erfahrungen gesammelt haben, während ich mich auf die Theorie konzentriert habe.
 
 # Erwartungen und Wünsche an den Kurs
+
 Trotz meiner Jahre im Studium und meiner begrenzten praktischen Erfahrungen fühle ich mich motiviert, im Kurs mitzuhalten und nicht den Anschluss zu verlieren. Mein Wunsch ist es, eine klare Übersicht darüber zu erhalten, wie Systeme und Anwendungen in der Bibliotheks- und Archivinformatik funktionieren und aufgebaut sind. Ich möchte verstehen, wie diese Systeme in der Praxis eingesetzt werden und wie sie die bibliothekarischen Prozesse unterstützen können.
 
 Besonders wichtig ist mir, dass der Kurs praxisnahe Einblicke bietet, um meine theoretischen Kenntnisse mit konkreten Anwendungen zu verbinden. Ich erhoffe mir, im Kurs die Möglichkeit zu haben, praktische Fähigkeiten zu entwickeln und meine Erfahrungen in der Bibliotheks- und Archivinformatik zu erweitern. Dabei hoffe ich auf eine unterstützende Lernumgebung, in der ich meine Fragen stellen kann und von den Erfahrungen meiner Mitstudenten profitiere.
